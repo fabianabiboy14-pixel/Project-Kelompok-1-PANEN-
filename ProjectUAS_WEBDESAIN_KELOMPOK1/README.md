@@ -8,3 +8,11 @@ Rantai pasok pangan tradisional di Indonesia masih panjang dan tidak efisien, ya
 **Inefisiensi Margin:** Pengecer UMKM kehilangan potensi margin keuntungan sebesar 24–45%.
 **Eksklusi Keuangan:** 68% pengecer kesulitan mengakses kredit formal dari bank karena tidak memiliki rekam jejak transaksi usaha.
 **Beban Modal Pembelian:** Kewajiban membeli dalam partai besar dari agen membebani arus kas warung harian.
+
+## 🎯 Tujuan Usaha & Sasaran Pengguna
+
+### Tujuan Utama
+1. Pemberdayaan UMKM pangan.
+2. Meningkatkan ketahanan usaha warung tradisional.
+3. Menciptakan keadilan dalam rantai pasok.
+4. Membantu UMKM naik kelas melalui laporan catatan usaha yang siap pakai.
