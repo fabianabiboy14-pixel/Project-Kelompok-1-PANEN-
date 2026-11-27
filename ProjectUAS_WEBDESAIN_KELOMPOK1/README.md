@@ -16,3 +16,7 @@ Rantai pasok pangan tradisional di Indonesia masih panjang dan tidak efisien, ya
 2. Meningkatkan ketahanan usaha warung tradisional.
 3. Menciptakan keadilan dalam rantai pasok.
 4. Membantu UMKM naik kelas melalui laporan catatan usaha yang siap pakai.
+
+### Arsitektur Dual-Interface (Pengguna Sasaran)
+* **Warung / Pengecer UMKM (via Aplikasi Web/Mobile PANEN):** Membandingkan harga, melakukan pembelian kolektif, memantau stok, dan mencatat pembukuan harian secara ringan di *smartphone*.
+* **Agen / Admin:** Mengelola ketersediaan stok, memvalidasi muatan penjemputan, dan memproses pencairan dana.
